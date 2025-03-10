@@ -18,3 +18,4 @@ data/
 *.pptx
 results/
 code/bin/
+*.zip
