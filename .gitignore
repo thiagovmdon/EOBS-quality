@@ -10,12 +10,10 @@ __pycache__/
 *.shx
 *.tif
 *.nc
-*.csv
 .xlsx
 bin/
 data/
 *.joblib
 *.pptx
-results/
 code/bin/
 *.zip
