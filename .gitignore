@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
-*.png
 *.cpg
 *.dbf
 *.prj
