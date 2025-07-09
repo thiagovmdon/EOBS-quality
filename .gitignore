@@ -11,7 +11,12 @@ __pycache__/
 *.nc
 .xlsx
 bin/
-data/
+# Ignore everything in data folder
+data/*
+# And do not ignore specific files inside it
+!data/hydmet.txt
+!data/performances.txt
+
 *.joblib
 *.pptx
 code/bin/
@@ -19,3 +24,7 @@ code/bin/
 *.png
 *.csv
 results/hbv
+
+# Do not ignore anything inside code/R
+!code/R/
+!code/R/**/*
