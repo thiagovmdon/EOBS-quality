@@ -24,6 +24,8 @@ code/bin/
 *.png
 *.csv
 results/hbv
+code/python/Paper_Quality_EOBS_00_checking_camels-de.ipynb
+code/python/Paper_Quality_EOBS_00_filtering_wrong_old.ipynb
 
 # Do not ignore anything inside code/R
 !code/R/
