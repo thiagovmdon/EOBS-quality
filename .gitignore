@@ -26,6 +26,12 @@ code/bin/
 results/hbv
 code/python/Paper_Quality_EOBS_00_checking_camels-de.ipynb
 code/python/Paper_Quality_EOBS_00_filtering_wrong_old.ipynb
+code/python/Paper_Quality_EOBS_03_results_and_figures_old.ipynb
+code/python/Paper_Quality_EOBS_03_filter_influenced_basins_austria.ipynb
+code/python/Paper_Quality_EOBS_03_filter_influenced_basins_and_austria_old.ipynb
+
+
+
 
 # Do not ignore anything inside code/R
 !code/R/
